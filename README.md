@@ -1,19 +1,21 @@
 # FRT-
 This contains all the README files of the project I created during my internship at Microsoft.
-![Screenshot (158)](https://github.com/ganeshpandey16/FRT-/assets/138892958/4f0511a7-7a82-40f7-9d88-d37a48e81370)
+![Screenshot (164)](https://github.com/ganeshpandey16/FRT-/assets/138892958/ad98e7b5-dda9-46d5-a251-f1889e102534)
 Two Azure core services which i used are
 1. Azure database for MySQL
    I used Mysql database of azure to store the login and signup credentials of the users and to store the job applications which user make from the TEN careers website
+   
    ![Screenshot (144)](https://github.com/ganeshpandey16/FRT-/assets/138892958/4d7a723e-e0ee-46d1-85e9-ad8b20f9b53c)
    ![Screenshot (145)](https://github.com/ganeshpandey16/FRT-/assets/138892958/c4518de4-6582-4151-a74c-b54072c45d27)
    ![Screenshot (146)](https://github.com/ganeshpandey16/FRT-/assets/138892958/6ecdebee-855e-4b9c-90f3-f8259a6fda6b)
    ![Screenshot (147)](https://github.com/ganeshpandey16/FRT-/assets/138892958/81f62aa3-d467-436e-92fb-9e27897b1bf1)
    
-2. Azure App service
+3. Azure App service
    Used azure app service to host my application and for auto scaling of my application
-   ![Screenshot (141)](https://github.com/ganeshpandey16/FRT-/assets/138892958/eb8b51cd-48c9-48ac-a4d1-372b0ab21a85)
-   ![Screenshot (142)](https://github.com/ganeshpandey16/FRT-/assets/138892958/0577377a-898c-49dc-87bc-c715ce8a8a8b)
-   ![Screenshot (143)](https://github.com/ganeshpandey16/FRT-/assets/138892958/b1b35b07-c849-4232-b3b4-7e7cd4d17b1d)
+   ![Screenshot (166)](https://github.com/ganeshpandey16/FRT-/assets/138892958/0925724e-69d3-4612-aa19-f04524134dc8)
+
+![Screenshot (167)](https://github.com/ganeshpandey16/FRT-/assets/138892958/3e878479-bd22-4812-970b-0e26d71995bc)
+
 
 
 The azure ai service which i used in my project
